@@ -1,1 +1,1 @@
-web: gunicorn heroketest0709.wsgi --log-file -
+web: gunicorn oasis.wsgi --log-file -
