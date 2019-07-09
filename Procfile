@@ -1,0 +1,1 @@
+web: gunicorn heroketest0709.wsgi --log-file -
