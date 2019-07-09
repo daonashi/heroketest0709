@@ -129,5 +129,5 @@ STATICFILES = [
         BASE_DIR,'wordcount','static')
 ]
 STATIC_ROOT = os.path.join(
-    BASE_DIR, 'static'
+    BASE_DIR, 'staticfiles'
 )
